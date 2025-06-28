@@ -12,7 +12,7 @@ A modern, smart assistant chat application built using **Flutter**, **Firebase**
 
 Check out a live demo of the app:
 
-👉 [GitHub Repository with Demo Code]([https://github.com/Salma-Yousry/flutter_task.git](https://drive.google.com/file/d/10W7Rit3LnunmrPol6ghPNjBxR3-2tmAH/view?usp=drivesdk))
+👉(https://drive.google.com/file/d/10W7Rit3LnunmrPol6ghPNjBxR3-2tmAH/view?usp=drivesdk)
 
 ---
 
