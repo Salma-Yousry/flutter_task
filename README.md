@@ -2,15 +2,30 @@
 
 A new Flutter project.
 
-## Getting Started
+# 🤖 Customer Support App – Flutter + Firebase
 
-This project is a starting point for a Flutter application.
+A modern, smart assistant chat application built using **Flutter**, **Firebase**, and **GetX** for real-time messaging and clean architecture.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📽️ Demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Check out a live demo of the app:
+
+👉(https://drive.google.com/file/d/10W7Rit3LnunmrPol6ghPNjBxR3-2tmAH/view?usp=drivesdk)
+
+---
+
+## 📱 Features
+
+- Real-time chat with text & image messages  
+- Smart assistant replies with typing animation  
+- Tap to call, visit websites, or open WhatsApp  
+- Adaptive layout using `MediaQuery` dimensions  
+- State management with GetX
+
+---
+
+
+
+
